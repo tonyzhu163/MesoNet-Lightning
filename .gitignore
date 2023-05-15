@@ -1,4 +1,9 @@
-/data
-!.py
-!.ipynb
-!.txt
+.idea
+/data/manipulated_sequences/
+/data/original_sequences/
+/data/test/
+/data/test_small/
+/data/train/
+/data/train_small/
+/data/command.txt
+
